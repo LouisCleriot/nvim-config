@@ -1,6 +1,7 @@
 vim.opt.clipboard = "unnamedplus"
-vim.g.python3_host_prog ="/home/louralie/miniforge3/bin/python"
-
+vim.g.python3_host_prog = vim.fn.expand("~/.pyenv/versions/neovim/bin/python")
+vim.g.loaded_perl_provider = 0
+vim.g.loaded_ruby_provider = 0
 -- ========================================================================== --
 -- GENERAL SETTINGS
 -- ========================================================================== --
