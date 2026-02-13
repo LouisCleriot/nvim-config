@@ -1,0 +1,69 @@
+[submodule "pack/plugins/start/autopairs"]
+	path = pack/plugins/start/autopairs
+	url = https://github.com/windwp/nvim-autopairs
+[submodule "pack/plugins/start/blink"]
+	path = pack/plugins/start/blink
+	url = https://github.com/Saghen/blink.cmp
+[submodule "pack/plugins/start/catppuccin"]
+	path = pack/plugins/start/catppuccin
+	url = https://github.com/catppuccin/nvim
+[submodule "pack/plugins/start/friendly-snippets"]
+	path = pack/plugins/start/friendly-snippets
+	url = https://github.com/rafamadriz/friendly-snippets
+[submodule "pack/plugins/start/gitsigns"]
+	path = pack/plugins/start/gitsigns
+	url = https://github.com/lewis6991/gitsigns.nvim
+[submodule "pack/plugins/start/harpoon"]
+	path = pack/plugins/start/harpoon
+	url = https://github.com/ThePrimeagen/harpoon
+[submodule "pack/plugins/start/lsp-file-operation"]
+	path = pack/plugins/start/lsp-file-operation
+	url = https://github.com/antosha417/nvim-lsp-file-operations
+[submodule "pack/plugins/start/lualine"]
+	path = pack/plugins/start/lualine
+	url = https://github.com/nvim-lualine/lualine.nvim
+[submodule "pack/plugins/start/neo-tree"]
+	path = pack/plugins/start/neo-tree
+	url = https://github.com/nvim-neo-tree/neo-tree.nvim
+[submodule "pack/plugins/start/nui"]
+	path = pack/plugins/start/nui
+	url = https://github.com/MunifTanjim/nui.nvim
+[submodule "pack/plugins/start/nvim-lspconfig"]
+	path = pack/plugins/start/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig
+[submodule "pack/plugins/start/nvim-treesitter"]
+	path = pack/plugins/start/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter
+[submodule "pack/plugins/start/nvim-web-devicons"]
+	path = pack/plugins/start/nvim-web-devicons
+	url = https://github.com/nvim-tree/nvim-web-devicons
+[submodule "pack/plugins/start/plenary"]
+	path = pack/plugins/start/plenary
+	url = https://github.com/nvim-lua/plenary.nvim
+[submodule "pack/plugins/start/rainbow-delimeter"]
+	path = pack/plugins/start/rainbow-delimeter
+	url = https://github.com/HiPhish/rainbow-delimiters.nvim
+[submodule "pack/plugins/start/render-markdown"]
+	path = pack/plugins/start/render-markdown
+	url = https://github.com/MeanderingProgrammer/render-markdown.nvim
+[submodule "pack/plugins/start/slime"]
+	path = pack/plugins/start/slime
+	url = https://github.com/jpalardy/vim-slime
+[submodule "pack/plugins/start/surround"]
+	path = pack/plugins/start/surround
+	url = https://github.com/kylechui/nvim-surround
+[submodule "pack/plugins/start/telescope"]
+	path = pack/plugins/start/telescope
+	url = https://github.com/nvim-telescope/telescope.nvim
+[submodule "pack/plugins/start/todo-comments"]
+	path = pack/plugins/start/todo-comments
+	url = https://github.com/folke/todo-comments.nvim
+[submodule "pack/plugins/start/treesitter-context"]
+	path = pack/plugins/start/treesitter-context
+	url = https://github.com/nvim-treesitter/nvim-treesitter-context
+[submodule "pack/plugins/start/venv-selector"]
+	path = pack/plugins/start/venv-selector
+	url = https://github.com/linux-cultist/venv-selector.nvim
+[submodule "pack/plugins/start/wich-key"]
+	path = pack/plugins/start/wich-key
+	url = https://github.com/folke/which-key.nvim
